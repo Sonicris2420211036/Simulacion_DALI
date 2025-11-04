@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = './build/DALI_Controller2.ino.elf'
+elf = './build/DALI_Controller2.ino.elf'
